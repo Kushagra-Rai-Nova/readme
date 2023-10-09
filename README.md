@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kushagra Rai, and I'm a passionate web developer hailing from the prestigious KIIT, Bhubaneswar, Odisha. Currently pursuing my B.Tech in the cutting-edge field of technology, I find immense joy in crafting innovative and user-friendly web solutions. As I step into my final year, I'm excited to embark on a journey of transforming ideas into captivating digital experiences.</h2>
+<h2 align="left">Hi 👋! My name is Kushagra Rai, and I'm a passionate web developer and UI UX designer hailing from the prestigious KIIT, Bhubaneswar, Odisha. Currently pursuing my B.Tech in the cutting-edge field of technology, I find immense joy in crafting innovative and user-friendly web solutions. As I step into my final year, I'm excited to embark on a journey of transforming ideas into captivating digital experiences.</h2>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kushagra Rai, and I'm a passionate web developer and UI UX designer hailing from the prestigious KIIT, Bhubaneswar, Odisha. Currently pursuing my B.Tech in the cutting-edge field of technology, I find immense joy in crafting innovative and user-friendly web solutions. As I step into my final year, I'm excited to embark on a journey of transforming ideas into captivating digital experiences.</h2>
+<h2 align="left">Hello, I'm Kushagra Rai, a passionate web developer, data analyst, and programmer skilled in C++ and Python. Proficient in front-end development with HTML, CSS, and JavaScript, I also have strong database expertise in SQL and MongoDB. Hailing from Lucknow, Uttar Pradesh, and pursuing B.Tech at KIIT University, I aim to bring my skills in full-time data analytics and software development roles. With effective communication and leadership, I thrive in collaborative environments. Let's connect and explore opportunities together. As I step into my final year, I'm excited to embark on a journey of transforming ideas into captivating digital experiences.</h2>
 
 ###
 
